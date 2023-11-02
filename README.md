@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Gamassaki&show_icons=true&theme=tokyonight" />
   </a>
-  <img height=200 align="center" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+  <img height=200 align="center" src="https://media.giphy.com/media/wLNuW1tCKRiPmDV5Y4/giphy.gif">
 </div>
 
 <p></p>
