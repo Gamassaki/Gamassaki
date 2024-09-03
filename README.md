@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Gamassaki&show_icons=true&theme=tokyonight" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Gamassaki&show_icons=true&theme=swift&rank_icon=github&hide=prs,issues" />
   </a>
   <img height=200 align="center" src="https://media.giphy.com/media/wLNuW1tCKRiPmDV5Y4/giphy.gif">
 </div>
