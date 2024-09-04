@@ -41,5 +41,3 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
-
-<!-- ![snake animation](https://github.com/Gamassaki/Gamassaki/blob/output/github-contribution-grid-snake2.svg) -->
